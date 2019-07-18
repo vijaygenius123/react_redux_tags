@@ -1,0 +1,47 @@
+{
+  "intrests": [
+    {
+      "id": 1,
+      "title": "React"
+    },
+    {
+      "id": 2,
+      "title": "Django"
+    },
+    {
+      "id": 3,
+      "title": "D3"
+    },
+    {
+      "id": 4,
+      "title": "React Native"
+    },
+    {
+      "id": 5,
+      "title": "ML"
+    },
+    {
+      "id": 6,
+      "title": "AI"
+    },
+    {
+      "id": 7,
+      "title": "Ruby"
+    }
+  ],
+  "selected_intrests": [
+    {
+      "id": 1,
+      "intrests": [
+        {
+          "id": 1,
+          "title": "React"
+        },
+        {
+          "id": 2,
+          "title": "Django"
+        }
+      ]
+    }
+  ]
+}

@@ -31,3 +31,7 @@
     transform: rotate(360deg);
   }
 }
+
+.chip-selected {
+  background-color: rgb(255, 165, 0);
+}
